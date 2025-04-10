@@ -2,7 +2,7 @@
 
 Welcome to my GitHub portfolio! As an experienced **RPA Developer** and **Automation Solution Architect**, I specialize in leveraging cutting-edge technologies to streamline business processes and deliver scalable automation solutions.
 
-![Profile Picture](https://github.com/zoyeb-xoyal/zoyebmansuri.github.io/blob/main/profile.jpg)
+![Profile Picture](https://github.com/zoyeb-xoyal/zoyebmansuri.github.io/blob/main/20240216_090720.jpg)
 
 ## 📌 About Me
 - 💼 **Certified UiPath RPA Solution Architect & Advanced RPA Developer**
